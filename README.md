@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   2 mins          ████████████████░░░░░░░░░   63.36 %
+C        1 min           ████████▓░░░░░░░░░░░░░░░░   34.40 %
+C++      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+```
+
 <!--END_SECTION:waka-->
