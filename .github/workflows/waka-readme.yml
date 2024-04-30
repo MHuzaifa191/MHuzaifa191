@@ -21,7 +21,7 @@ jobs:
           SECTION_NAME: waka # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ░▒▓█
           LANG_COUNT: 10
           TIME_RANGE: all_time
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
