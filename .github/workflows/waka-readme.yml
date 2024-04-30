@@ -15,19 +15,12 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          REPOSITORY: MHuzaifa191/MHuzaifa191 # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          SHOW_TIME: true
+          SHOW_TOTAL: true
           BLOCKS: ░▒▓█
           LANG_COUNT: 10
           TIME_RANGE: all_time
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Huzaifa # optional
-          AUTHOR_EMAIL: m.huz4if4@gmail.com # optional
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
+          SHOW_MASKED_TIME: true
