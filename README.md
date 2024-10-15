@@ -1,5 +1,10 @@
 <h1 align="center">Muhammad Huzaifa</h1>
 
+[![wakatime](https://wakatime.com/badge/user/018e7f95-7718-4040-9854-a08b559e17d6.svg)](https://wakatime.com/@018e7f95-7718-4040-9854-a08b559e17d6)
+	<img src="https://komarev.com/ghpvc/?username=Mahad871&label=Profile%20views&color=0e75b6&style=plastic" alt="MHuzaifa191" /> 
+	<a href = "https://commits.top/pakistan.html" target="_blank">
+	</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhuzaifa191&label=Profile%20views&color=0e75b6&style=flat" alt="mhuzaifa191" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhuzaifa191" alt="mhuzaifa191" /></a> </p>
