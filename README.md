@@ -47,4 +47,8 @@ Bash           52 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@018e7f95-7718-4040-9854-a08b559e17d6/4e166729-3aed-4386-9395-1399f8585372.svg"></embed></figure>
+<div align="center" style="text-align:center">
+    <figure><embed src="https://wakatime.com/share/@018e7f95-7718-4040-9854-a08b559e17d6/ce13a1c2-02fb-4992-a59e-9ea6d23a668b.svg"></embed></figure>
+</div>
+
+
