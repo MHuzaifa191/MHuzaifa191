@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Huzaifa</h1>
 
 [![wakatime](https://wakatime.com/badge/user/018e7f95-7718-4040-9854-a08b559e17d6.svg)](https://wakatime.com/@018e7f95-7718-4040-9854-a08b559e17d6)
-	<img src="https://komarev.com/ghpvc/?username=Mahad871&label=Profile%20views&color=0e75b6&style=plastic" alt="MHuzaifa191" /> 
+	<img src="https://komarev.com/ghpvc/?username=MHuzaifa191&label=Profile%20views&color=0e75b6&style=plastic" alt="MHuzaifa191" /> 
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 	</a>
 
