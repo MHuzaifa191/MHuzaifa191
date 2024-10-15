@@ -5,7 +5,6 @@
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 	</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhuzaifa191&label=Profile%20views&color=0e75b6&style=flat" alt="mhuzaifa191" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhuzaifa191" alt="mhuzaifa191" /></a> </p>
 
@@ -47,3 +46,7 @@ Bash           52 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<div align="center" style="text-align:center">
+    <img src="https://wakatime.com/share/@MHuzaifa191/018e7f95-7718-4040-9854-a08b559e17d6.svg" alt="languages" align="middle" height=400>
+</div>
