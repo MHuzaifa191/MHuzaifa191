@@ -24,6 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhuzaifa191&show_icons=true&locale=en" alt="mhuzaifa191" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifa191&" alt="mhuzaifa191" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MHuzaifa191&theme=highcontrast)](https://git.io/streak-stats)
 
 
 <!--START_SECTION:waka-->
