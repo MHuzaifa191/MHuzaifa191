@@ -21,7 +21,7 @@
 
 ![MHuzaifa191's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![MHuzaifa191's Stats](https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![MHuzaifa191's Stats]([https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true))
 
 
 
