@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=django,mysql,docker,express,nodejs,firebase,kubernetes,flask,grafana,heroku,html,postgres,postman,js,mongodb,nginx,aws,react,gcp,azure,react,vue,anaconda,angular,bash,redis,supabase,selenium,tailwind,bootstrap,cpp,css,ts,vercel&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,mysql,docker,express,nodejs,firebase,kubernetes,flask,grafana,heroku,postgres,postman,js,mongodb,nginx,aws,react,gcp,azure,react,vue,anaconda,angular,bash,redis,supabase,selenium,tailwind,bootstrap,cpp,ts,vercel&perline=16)](https://skillicons.dev)
 
 ![MHuzaifa191's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
