@@ -53,4 +53,6 @@ Bash           1 hr 15 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
+![MHuzaifa191's Stats](https://profile-summary-for-github.com/user/MHuzaifa191)
+
 
