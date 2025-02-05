@@ -16,7 +16,7 @@
 <a href="https://www.leetcode.com/huzaifa191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huzaifa191" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Stack:</h3>
 
 <!---
 [![My Skills](https://skillicons.dev/icons?i=django,mysql,docker,express,nodejs,firebase,kubernetes,flask,grafana,heroku,postgres,postman,js,mongodb,nginx,aws,react,gcp,azure,react,vue,anaconda,angular,bash,redis,supabase,selenium,tailwind,bootstrap,cpp,ts,vercel&perline=16)](https://skillicons.dev)
@@ -24,7 +24,8 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 
-![MHuzaifa191's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) ![MHuzaifa191's Stats](https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true)
+![MHuzaifa191's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
+![MHuzaifa191's Stats](https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true)
 
 
 
