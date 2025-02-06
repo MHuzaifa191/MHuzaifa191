@@ -55,13 +55,5 @@ Bash           1 hr 15 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-huzaifa-bb593a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-huzaifa-bb593a200" height="30" width="40" /></a>
-<a href="https://fb.com/mo.huzayfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mo.huzayfa" height="30" width="40" /></a>
-<a href="https://instagram.com/mo.huzayfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo.huzayfa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/huzaifa191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huzaifa191" height="30" width="40" /></a>
-</p>
-
 
 
