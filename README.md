@@ -57,6 +57,6 @@ Bash           1 hr 15 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 
