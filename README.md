@@ -22,15 +22,6 @@
 ![MHuzaifa191's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) 
 ![MHuzaifa191's Stats](https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true)
 
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MHuzaifa191&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ## 📈 Wakatime Metrics
 
 <!--START_SECTION:waka-->
@@ -55,7 +46,16 @@ Bash           1 hr 15 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
-## 🤝 Connect With Me
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MHuzaifa191&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+### 🤝 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-huzaifa-bb593a200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-huzaifa-bb593a200" height="30" width="40" /></a>
 <a href="https://fb.com/mo.huzayfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mo.huzayfa" height="30" width="40" /></a>
