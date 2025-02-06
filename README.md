@@ -20,8 +20,8 @@
 
 ## 📊 Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifa191&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px"/>
 </p>
 
 
