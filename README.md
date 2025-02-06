@@ -17,7 +17,7 @@
 <a href="https://www.leetcode.com/huzaifa191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huzaifa191" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Stack:</h3>
+## 👨‍💻 My Tech Stack
 
 <!---
 [![My Skills](https://skillicons.dev/icons?i=django,mysql,docker,express,nodejs,firebase,kubernetes,flask,grafana,heroku,postgres,postman,js,mongodb,nginx,aws,react,gcp,azure,react,vue,anaconda,angular,bash,redis,supabase,selenium,tailwind,bootstrap,cpp,ts,vercel&perline=16)](https://skillicons.dev)
