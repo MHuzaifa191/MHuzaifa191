@@ -58,5 +58,6 @@ Bash           1 hr 15 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 [[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/MHuzaifa191/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark)
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/MHuzaifa191/repos?time_range=one_year&include_private=True&theme=dark)
 
-[](https://api.githubtrends.io/user/svg/MHuzaifa191/repos?time_range=one_year&include_private=True&theme=dark)
+
