@@ -23,4 +23,4 @@ jobs:
           LANG_COUNT: 10
           TIME_RANGE: all_time
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
-          SHOW_MASKED_TIME: true
+          SHOW_MASKED_TIME: false
