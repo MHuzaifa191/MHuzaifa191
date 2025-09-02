@@ -24,3 +24,4 @@ jobs:
           TIME_RANGE: all_time
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
           SHOW_MASKED_TIME: false
+          SHOW_SHORT_INFO: true
