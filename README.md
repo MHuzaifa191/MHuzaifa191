@@ -31,24 +31,42 @@
 ## 📈 Wakatime Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2015%20mins-blue)
 
-```txt
-From: 26 March 2024 - To: 01 September 2025
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-Total Time: 449 hrs 44 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-Python                     188 hrs 29 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.75 %
-HTML                       89 hrs 48 mins  ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.89 %
-TypeScript                 71 hrs 32 mins  ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.85 %
-JavaScript                 53 hrs 41 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.89 %
-C                          16 hrs 45 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 %
-CSS                        12 hrs 3 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.67 %
-JSON                       5 hrs 9 mins    ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.14 %
-Markdown                   3 hrs 11 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.71 %
-Bash                       2 hrs 23 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.53 %
-Text                       1 hr 57 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.43 %
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 709 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MHuzaifa191/MHuzaifa191/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/09/2025 08:37:28 UTC
 <!--END_SECTION:waka-->
 
 
