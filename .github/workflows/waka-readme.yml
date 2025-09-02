@@ -9,10 +9,10 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: anmol098/waka-readme-stats@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
