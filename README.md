@@ -30,8 +30,8 @@
 
 ## 📈 Wakatime Metrics
 
-<!--START_SECTION:all_time-->
-<!--END_SECTION:all_time-->
+<!--START_SECTION:all-->
+<!--END_SECTION:all-->
 
 <!--START_SECTION:waka-->
 
