@@ -1,9 +1,27 @@
-<h1 align="center">Muhammad Huzaifa</h1>
+<h1 align="center">Hi, I'm Huzaifa</h1>
 
 [![wakatime](https://wakatime.com/badge/user/018e7f95-7718-4040-9854-a08b559e17d6.svg)](https://wakatime.com/@018e7f95-7718-4040-9854-a08b559e17d6)
 	<img src="https://komarev.com/ghpvc/?username=MHuzaifa191&label=Profile%20views&color=0e75b6&style=plastic" alt="MHuzaifa191" /> 
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 	</a>
+
+<h2 align="center">Software Engineer passionate about transforming ideas into impactful digital experiences. I specialize in building scalable web applications that combine strong engineering foundations with intuitive user design.</h2>
+
+## My mission
+
+To craft software that not only works flawlessly but feels great to use. Whether working with **Next.js**, **Django**, **FastAPI**, or tools like **Docker**, **AWS**, and **GCP**, I thrive on solving real-world challenges and delivering meaningful outcomes through technology.
+
+## What I’ve built so far
+
+- Designed and deployed full-stack web applications with secure authentication, efficient APIs, and modern UI/UX.  
+- Developed scalable backend architectures supporting thousands of users and optimized database performance with caching and indexing.  
+- Built automation tools and dashboards that streamlined operations, reduced manual effort, and improved data accuracy.  
+- Created interactive learning modules and AI-powered tools that enhance user engagement and simplify complex processes.  
+- Engineered responsive, SEO-optimized websites that improved load times and search visibility.  
+- Deployed and managed cloud infrastructure using AWS, GCP, and Docker for reliable CI/CD pipelines and production stability.
+
+
+
 
 
 ## 🏆 GitHub Trophies
