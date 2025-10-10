@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Huzaifa</h1>
-
 <h2 align="center">Software Engineer passionate about transforming ideas into impactful digital experiences.</h2>
 
 [![wakatime](https://wakatime.com/badge/user/018e7f95-7718-4040-9854-a08b559e17d6.svg)](https://wakatime.com/@018e7f95-7718-4040-9854-a08b559e17d6)
