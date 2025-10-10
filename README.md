@@ -5,7 +5,7 @@
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 	</a>
 
-<h4 align="center">Software Engineer passionate about transforming ideas into impactful digital experiences. I specialize in building scalable web applications that combine strong engineering foundations with intuitive user design.</h4>
+<h2 align="center">Software Engineer passionate about transforming ideas into impactful digital experiences.</h2>
 
 ## My mission
 
