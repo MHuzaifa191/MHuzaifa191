@@ -30,7 +30,7 @@ To craft software that not only works flawlessly but feels great to use. Whether
 ![](https://github-profile-trophy.vercel.app/?username=MHuzaifa191&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 --->
 
-![](https://trophygh.kolioaris.xyz/?username=MHuzaifa191&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MHuzaifa191&theme=radical)
 
 ## 👨‍💻 My Tech Stack
 
