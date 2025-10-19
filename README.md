@@ -8,10 +8,6 @@
 <p align="center">Software Engineer passionate about transforming ideas into impactful digital experiences. I specialize in building scalable web applications that combine strong engineering foundations with intuitive user design.</p>
 
 
-## My mission
-
-To craft software that not only works flawlessly but feels great to use. Whether working with **Next.js**, **Django**, **FastAPI**, or tools like **Docker**, **AWS**, and **GCP**, I thrive on solving real-world challenges and delivering meaningful outcomes through technology.
-
 ## What I’ve built so far
 
 - Designed and deployed full-stack web applications with secure authentication, efficient APIs, and modern UI/UX.  
