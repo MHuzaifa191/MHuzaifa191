@@ -102,8 +102,6 @@ Bash                       2 hrs 52 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:all-->
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MHuzaifa191&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## ✍️ Random Dev Quote
