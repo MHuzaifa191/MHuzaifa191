@@ -36,18 +36,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,491 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -86,7 +74,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2025 08:53:47 UTC
+ Last Updated on 03/12/2025 18:53:05 UTC
 <!--END_SECTION:waka-->
 
 
