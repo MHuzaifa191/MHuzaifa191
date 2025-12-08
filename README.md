@@ -58,7 +58,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 <!--START_SECTION:all-->
 
 ```txt
-From: 26 March 2024 - To: 05 December 2025
+From: 26 March 2024 - To: 06 December 2025
 
 Total Time: 666 hrs 43 mins
 
