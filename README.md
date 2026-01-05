@@ -4,13 +4,13 @@
 	</a>
 
 
-<h1 align="center">Hi, I'm Huzaifa</h1>
-<p align="center">Software Engineer passionate about transforming ideas into impactful digital experiences. I specialize in building scalable web applications that combine strong engineering foundations and best practices with intuitive user design.</p>
+<!-- <h1 align="center">Hi, I'm Huzaifa</h1>
+<p align="center">Software Engineer passionate about transforming ideas into impactful digital experiences. I specialize in building scalable web applications that combine strong engineering foundations and best practices with intuitive user design.</p> -->
 
 
-## What I’ve built so far
+## My Engineering Experience
 
-- Designed and deployed full-stack web applications with secure authentication, efficient APIs, and modern UI/UX.  
+- Have Designed and deployed full-stack web applications with secure authentication, efficient APIs, and modern UI/UX.  
 - Developed scalable backend architectures supporting thousands of users and optimized database performance with caching and indexing.  
 - Built automation tools and dashboards that streamlined operations, reduced manual effort, and improved data accuracy.  
 - Created interactive learning modules and AI-powered tools that enhance user engagement and simplify complex processes.  
