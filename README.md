@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi, I'm Huzaifa</h1>
-<p align="center">Software Engineer passionate about transforming ideas into impactful digital experiences. I specialize in building scalable web applications that combine strong engineering foundations with intuitive user design.</p>
+<p align="center">Software Engineer passionate about transforming ideas into impactful digital experiences. I specialize in building scalable web applications that combine strong engineering foundations and best practices with intuitive user design.</p>
 
 
 ## What I’ve built so far
