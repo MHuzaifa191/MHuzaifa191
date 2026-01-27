@@ -10,9 +10,9 @@
 
 ## Hi, I'm Huzaifa. Here's my engineering experience:
 
-- Have Designed and deployed full-stack web applications with secure authentication, efficient APIs, and modern UI/UX.  
-- Developed scalable backend architectures supporting thousands of users and optimized database performance with caching and indexing.  
-- Built automation tools and dashboards that streamlined operations, reduced manual effort, and improved data accuracy.  
+- Have Designed and deployed full-stack web applications with secure authentication, efficient APIs, and modern UI/UX.    
+- Built automation tools and dashboards that streamlined operations, reduced manual effort, and improved data accuracy.
+- Developed scalable architectures supporting thousands of users and optimized performance with caching and indexing.- 
 - Created interactive learning modules and AI-powered tools that enhance user engagement and simplify complex processes.  
 - Engineered responsive, SEO-optimized websites that improved load times and search visibility.  
 - Deployed and managed cloud infrastructure using AWS, GCP, and Docker for reliable CI/CD pipelines and production stability.
