@@ -31,10 +31,33 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.41%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+TypeScript               7 hrs 31 mins       ████████████████████████░   95.54 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 52 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+LearnOSTEAM-Next         7 hrs 33 mins       ████████████████████████░   95.95 % 
+LearnOSTEAM-DRF          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+
+💻 Operating System: 
+Windows                  7 hrs 52 mins       █████████████████████████   100.00 % 
+```
 
 
- Last Updated on 01/02/2026 18:58:49 UTC
+ Last Updated on 03/02/2026 19:25:04 UTC
 <!--END_SECTION:waka-->
 
 
