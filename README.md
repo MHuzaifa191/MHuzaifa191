@@ -66,7 +66,7 @@ Windows                  7 hrs 52 mins       ███████████�
 <!--START_SECTION:all-->
 
 ```txt
-From: 26 March 2024 - To: 01 March 2026
+From: 26 March 2024 - To: 02 March 2026
 
 Total Time: 738 hrs 48 mins
 
