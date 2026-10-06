@@ -43,7 +43,7 @@
 <!--START_SECTION:all-->
 
 ```txt
-From: 26 March 2024 - To: 03 October 2026
+From: 26 March 2024 - To: 04 October 2026
 
 Total Time: 1,098 hrs 47 mins
 
